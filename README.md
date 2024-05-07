@@ -1,6 +1,6 @@
 <img src="./python.png" width="80" height="80" alt="logo" />
 
-# Python Deep Learn
+# Python Deep Learn Fundamentals
 
 > My Study for fundamentals of artificial intelligence
 
@@ -17,5 +17,5 @@
   - Confusion Matrix
 - Naive Bayes
 - KNN
+- SVM
 
-pip freeze > requirements.txt
