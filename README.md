@@ -19,3 +19,6 @@
 - KNN
 - SVM
 
+### Created by
+
+© [Giovane Santos](https://giovanesantossilva.github.io)
